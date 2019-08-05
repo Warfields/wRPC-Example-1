@@ -1,3 +1,9 @@
 # wRPC Example 1
 
-An Example of wRPC in an implimentation.
+This is an example module for a wRPC function call using an emscripten call to
+the rust js-bind / web-sys modules.
+
+# Dependencies
+
+- wRPC Core WASM Binary
+- Emscripton
